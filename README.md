@@ -27,7 +27,12 @@ Every Branch Test Cases
    3. checkCart(new List.of(new Item(Frutiko,123512,350,0.05)), 500) - Овој тест враќа true на крај
    4. checkCart(new List.of(new Item(Frutiko,null,350,0.05)), 500) - Овој тест фрла исклучок бидејќи баркодот е null.(17)
    5. checkCart(new List.of(new Item(Frutiko,ASD1434125,350,0.05)), 500) - Овој тест фрла исклучок бидејќи има невалидни карактери во баркодот. (11)
-  
+
+Multiple Condition
+-
+
+   ![image](https://github.com/stevetosak/SI_2024_lab2_225144/assets/116950252/044f61c2-1fcb-4154-92cf-596566c9fa17)
+
 
 
    

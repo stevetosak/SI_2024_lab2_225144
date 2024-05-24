@@ -1,4 +1,6 @@
-Stefan Toskovski 225144
+# Втора лабораториска вежба по Софтверско инженерство
+
+## Stefan Toskovski 225144
 
 2. Control Flow Graph
 
@@ -6,8 +8,9 @@ Stefan Toskovski 225144
 ![image](https://github.com/stevetosak/SI_2024_lab2_225144/assets/116950252/66cc2601-a0b2-4c47-9531-fd7a225b62ae)
 
 
-3. Цикломатска комплексмост
+3. Цикломатска комплексност
    -
+   Цикломатската комплексност на овој код е: 10.
    Резултатот го добив така што изброив колку услови (гранења) има во кодот, користејќи ја формулата C = P + 1.
 5. Every Branch Test Cases
     -
@@ -25,3 +28,4 @@ Stefan Toskovski 225144
    3. checkCart(new List.of(new Item(Frutiko,123512,350,0.05)), 500) - Овој тест враќа true на крај
    4. checkCart(new List.of(new Item(Frutiko,null,350,0.05)), 500) - Овој тест фрла исклучок бидејќи баркодот е null.(17)
    5. checkCart(new List.of(new Item(Frutiko,ASD1434125,350,0.05)), 500) - Овој тест фрла исклучок бидејќи има невалидни карактери во баркодот. (11)
+   6. 

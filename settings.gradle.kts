@@ -1,2 +1,2 @@
-rootProject.name = "SI_2024_lab2_225144"
+rootProject.name = "SI_lab2_225144"
 

@@ -96,8 +96,4 @@ public class SILab2 {
         }
        //24
     }
-
-    public static void main(String[] args) {
-        checkCart(List.of(new Item("Frutiko", "2312341", 250, 23.3F)),500);
-    }
 }

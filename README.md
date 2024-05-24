@@ -14,13 +14,14 @@ ___Во овој CFG, бројките на јазлите се соодветн
 
 
 Цикломатска комплексност
-   -
+-
    Цикломатската комплексност на овој код е: 10.  
    Резултатот го добив така што изброив колку услови (гранења) има во кодот, користејќи ја формулата C = P + 1.
    
 Every Branch Test Cases
-   -
-   [EveryBranch_TestCases - Sheet1-1.pdf](https://github.com/stevetosak/SI_2024_lab2_225144/files/15435369/EveryBranch_TestCases.-.Sheet1-1.pdf)
+-
+  [EveryBranch_TestCases - Sheet1-2.pdf](https://github.com/stevetosak/SI_2024_lab2_225144/files/15438232/EveryBranch_TestCases.-.Sheet1-2.pdf)
+ 
 
    ### _Вкупно се потребни 5 тест случаи._  
    1. checkCart(**null, 500**) - Прв тест случај е празна листа и фрла исклучок.  

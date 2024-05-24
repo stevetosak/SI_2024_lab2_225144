@@ -20,9 +20,6 @@ ___Во овој CFG, бројките на јазлите се соодветн
    
 Every Branch Test Cases
 -
-  [EveryBranch_TestCases - Sheet1-2.pdf](https://github.com/stevetosak/SI_2024_lab2_225144/files/15438232/EveryBranch_TestCases.-.Sheet1-2.pdf)
- 
-
    ### _Вкупно се потребни 5 тест случаи._  
    1. checkCart(**null, 500**) - Прв тест случај е празна листа и фрла исклучок.  
    2. checkCart(List.of(new Item(**"Frutiko",null,350,0.05F)), 500**)) - Овој тест фрла исклучок бидејќи баркодот е null.(17)    
@@ -34,6 +31,9 @@ Every Branch Test Cases
    
    На крај, овој тест враќа false бидејќи sum=1302.5 а payment=500, т.е sum > payment.  
    5. checkCart(List.of(new Item(**"Frutiko","123512",350,0.05F), 500)**) - Овој тест враќа true на крај  
+
+   За подетални информации околу тест случаите, во прилог е табела во која детално е прикажано за соодветен тест случај кој јазли ги посетува.
+    [EveryBranch_TestCases - Sheet1-2.pdf](https://github.com/stevetosak/SI_2024_lab2_225144/files/15438232/EveryBranch_TestCases.-.Sheet1-2.pdf)
   
  
 Multiple Condition Test Cases
